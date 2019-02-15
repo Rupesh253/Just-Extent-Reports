@@ -1,0 +1,1 @@
+6Simple Java project analyzed with the SonarQube Runner :J1.0Rjava-sonar-runner-simple
